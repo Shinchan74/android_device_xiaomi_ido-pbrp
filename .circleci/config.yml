@@ -39,5 +39,5 @@ workflows:
       - build:
           filters:
             branches:
-              only: android-9.0
+              only: dev
           context: org-global
