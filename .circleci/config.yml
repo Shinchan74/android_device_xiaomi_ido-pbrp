@@ -7,7 +7,7 @@ jobs:
     environment:
       MANIFEST_BRANCH: 'android-9.0'
       USE_SECRET_BOOTABLE: 'true'
-      SECRET_BR: 'redesign3'
+      SECRET_BR: 'redesign3-bugfix'
       # PBRP_BRANCH: 'devs'
        # Trim down PB_GO a little more
       PB_ENGLISH: 'true'
