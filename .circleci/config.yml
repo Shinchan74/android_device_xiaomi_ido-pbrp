@@ -13,7 +13,7 @@ jobs:
       PB_ENGLISH: 'true'
       FLAVOR: 'userdebug'
       VERSION: '2.9.1'
-      MAINTAINER: '@Reza_Adi_Pangestu'
+      MAINTAINER: '@firewolfxda'
       VENDOR: 'xiaomi'
       CODENAME: 'ido'
       BUILD_LUNCH: 'omni_ido-eng'
