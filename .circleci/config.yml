@@ -9,8 +9,8 @@ jobs:
       USE_SECRET_BOOTABLE: 'true'
       SECRET_BR: 'redesign3-bugfix'
       # PBRP_BRANCH: 'devs'
-       # Trim down PB_GO a little more
-       # Trigger 1
+      # Trim down PB_GO a little more
+      # Trigger 2
       PB_ENGLISH: 'true'
       FLAVOR: 'userdebug'
       VERSION: '2.9.1'
