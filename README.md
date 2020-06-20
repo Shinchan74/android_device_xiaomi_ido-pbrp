@@ -1,6 +1,6 @@
 [![PBRP](https://circleci.com/gh/PitchBlackRecoveryProject/android_device_xiaomi_ido-pbrp/tree/dev.svg?style=svg)](https://circleci.com/gh/PitchBlackRecoveryProject/android_device_xiaomi_ido-pbrp/tree/dev)
 
-PittchBlack Recovery Project
+PitchBlack Recovery Project
 
 Device configuration for Xiaomi Redmi 3 (ido)
 =====================================
