@@ -7,14 +7,14 @@ jobs:
     environment:
       MANIFEST_BRANCH: 'android-9.0'
       # PBRP_BRANCH: 'devs'
-      VERSION: '2.9.1'
-      MAINTAINER: '@Reza_Adi_Pangestu'
+      VERSION: '3.0.0'
+      MAINTAINER: '@Reza_Adi_Pangestu, @firewolfxda'
       VENDOR: 'xiaomi'
       CODENAME: 'ido'
       BUILD_LUNCH: 'omni_ido-eng'
+      PB_DISABLE_DEFAULT_TREBLE_COMP: 'true'
       # Remove the following when Publishing Official
       TEST_BUILD: 'true'
-      PB_TREBLE_COMP_PASS: 'true'
       # Only for Official Build, uncomment following
       # PB_OFFICIAL: 'true'
     working_directory: /home/builder/pitchblack
