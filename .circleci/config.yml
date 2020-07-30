@@ -14,9 +14,9 @@ jobs:
       BUILD_LUNCH: 'omni_ido-eng'
       PB_DISABLE_DEFAULT_TREBLE_COMP: 'true'
       # Remove the following when Publishing Official
-      TEST_BUILD: 'true'
+      # TEST_BUILD: 'true'
       # Only for Official Build, uncomment following
-      # PB_OFFICIAL: 'true'
+      PB_OFFICIAL: 'true'
       CHANGELOG: |
         - Bringup 3.0 
         - Source side changes 
