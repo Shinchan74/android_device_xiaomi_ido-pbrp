@@ -26,7 +26,7 @@ $(call inherit-product, vendor/pb/config/common.mk)
 PRODUCT_DEVICE := ido
 PRODUCT_NAME := omni_ido
 PRODUCT_BRAND := Xiaomi
-PRODUCT_MODEL := Xiaomi Redmi 3
+PRODUCT_MODEL := Redmi 3
 PRODUCT_MANUFACTURER := Xiaomi
 
 # enable stock zip packages flash
