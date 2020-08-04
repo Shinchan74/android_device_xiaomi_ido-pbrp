@@ -8,7 +8,7 @@ jobs:
       MANIFEST_BRANCH: 'android-9.0'
       # PBRP_BRANCH: 'devs'
       VERSION: '3.0.0'
-      MAINTAINER: '@Reza_Adi_Pangestu, @firewolfxda'
+      MAINTAINER: '@shovon668'
       VENDOR: 'xiaomi'
       CODENAME: 'ido'
       BUILD_LUNCH: 'omni_ido-eng'
