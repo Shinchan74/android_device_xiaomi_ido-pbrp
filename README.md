@@ -1,4 +1,5 @@
-TeamWin Recovery Project
+[![PBRP](https://circleci.com/gh/PitchBlackRecoveryProject/android_device_xiaomi_ido-pbrp/tree/android-9.0.svg?style=svg)](https://circleci.com/gh/PitchBlackRecoveryProject/android_device_xiaomi_ido-pbrp/tree/android-9.0)
+
 
 Device configuration for Xiaomi Redmi 3 (ido)
 =====================================
